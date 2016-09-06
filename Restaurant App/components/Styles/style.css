@@ -1,0 +1,73 @@
+footer {
+    position: fixed;
+    right: 0px;
+    bottom:0px;
+    left: 0px;
+    padding: -10rem;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    padding: 150px;
+}
+
+.center{
+    position: absolute;
+    font-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+
+}
+
+.order{
+    color: beige;
+    font-size: 12px;
+}
+
+
+
+
+body {
+    background-image: url("https://cdn.royalalberthall.com/file/1396975600/30168545194/width=1280/height=720/format=JPG/fit=crop/crop=0x613+4254x2395/rev=2/t=399992/e=never/k=08451a85/rat-3.jpg");
+    /*/!**!/background-repeat: no-repeat;*/
+    background-size: cover ;
+
+    max-width: 100%;
+    height: auto;
+
+}
+@-webkit-keyframes Content {
+    from{background-color: Black}
+    to{background-color: darkblue}
+}
+
+
+p{
+    font-size: 25px;
+    font-stretch: ultra-expanded;
+    color: beige;
+}
+
+.css-form input.ng-invalid.ng-touched{
+    background-color: pink;
+}
+
+
+
+.navbar{
+    background-color: black;
+    font-style:italic;
+    font-family: cursive;
+    font-size: medium;
+    font-color: black;
+
+}
+
+.login{
+    margin-right: 12px;
+}
+
